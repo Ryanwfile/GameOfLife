@@ -1,0 +1,48 @@
+td {
+  background-color: pink;
+  border: 1px solid black;
+  text-align: center;
+  height: 55px;
+  width: 55px;
+  cursor: pointer;
+}
+
+.grid {
+  margin: auto;
+}
+
+h1, h2 {
+  text-align: center;
+  margin: 15px auto;
+}
+
+table {
+  margin: auto;
+}
+
+.row {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+button {
+  margin: 5px;
+  height: 40px;
+}
+
+.cell {
+  background: blue;
+  height: 16px;
+  width: 16px;
+  margin: auto;
+}
+
+label {
+  font-weight: bold;
+  font-size: 150%;
+  margin-right: 10px;
+}
+
+input {
+  text-align: center;
+}
